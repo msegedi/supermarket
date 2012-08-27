@@ -1,0 +1,5 @@
+module DiscountType
+  THREE_FOR_A_DOLLAR = 1
+  DOLLAR_NINETY_NINE_PER_POUND = 2
+  BUY_TWO_GET_ONE_FREE = 3
+end
